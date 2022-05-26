@@ -1,0 +1,20 @@
+{
+  "name": "morning-parsing-api",
+  "version": "1.0.0",
+  "main": "parser_main.js",
+  "author": "OxygenXXX",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxygenXXX/morning-parsing-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OxygenXXX/morning-parsing-api/issues"
+  },
+  "homepage": "https://github.com/OxygenXXX/morning-parsing-api#readme",
+  "dependencies": {
+    "create-file": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "needle": "^3.1.0"
+  }
+}
